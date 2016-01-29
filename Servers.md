@@ -13,3 +13,4 @@ citrix.findlay.edu
 
 #vSphere Server
 csci01.findlay.edu
+csci-vcenter.findlay.edu
